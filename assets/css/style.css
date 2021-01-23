@@ -1,0 +1,15 @@
+img { 
+    width: 200px;
+}
+
+#special-mo {
+    width: 150px;
+    border: pink solid 15px;
+}
+
+.custom {
+    text-decoration: underline;
+    padding: 15px;
+    background: rgba(116, 30, 30, 0.616);
+}
+
